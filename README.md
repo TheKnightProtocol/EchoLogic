@@ -35,7 +35,18 @@
 | User Interface     | Streamlit |
 
 ---
+| Language        | Code    |
+| --------------- | ------- |
+| English (India) | `en-IN` |
+| English (US)    | `en-US` |
+| Hindi           | `hi-IN` |
+| Spanish         | `es-ES` |
+| French          | `fr-FR` |
+| German          | `de-DE` |
+| Tamil           | `ta-IN` |
+| Bengali         | `bn-IN` |
 
+---
 ## 📁 Project Structure
 
 echologic/
