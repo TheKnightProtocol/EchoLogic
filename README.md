@@ -47,16 +47,16 @@
 | Bengali         | `bn-IN` |
 
 ---
-## 📁 Project Structure
+## 📁 Project Structure (Table Format)
 
-echologic/
-├── transcription/ # Whisper-based audio extraction
-├── semantic_analysis/ # LLM parsing for summary and key actions
-├── rag_engine/ # Embedding + retrieval system using ChromaDB
-├── doc_generation/ # Generates DOCX documentation
-├── visualizer/ # Creates logic diagrams
-├── ui/ # Streamlit interface
-├── utils/ # Helpers and error handling
-├── main.py # Main CLI entrypoint
-└── requirements.txt
-
+| Folder/File           | Description                                      |
+|------------------------|--------------------------------------------------|
+| `transcription/`       | Whisper-based audio extraction                   |
+| `semantic_analysis/`   | LLM parsing for summary and key actions          |
+| `rag_engine/`          | Embedding + retrieval system using ChromaDB      |
+| `doc_generation/`      | Generates DOCX documentation                     |
+| `visualizer/`          | Creates logic diagrams                           |
+| `ui/`                  | Streamlit interface                              |
+| `utils/`               | Helpers and error handling                       |
+| `main.py`              | Main CLI entrypoint                              |
+| `requirements.txt`     | Project dependencies list                        |
