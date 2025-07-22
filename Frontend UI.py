@@ -17,3 +17,4 @@ if audio_file:
         summary = generate_summary(transcript)
         st.subheader("AI Summary")
         st.write(summary)
+      
