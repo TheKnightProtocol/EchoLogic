@@ -9,5 +9,5 @@ def transcribe_audio(file_path):
         text = recognizer.recognize_google(audio)
         return text
     except sr.UnknownValueError:
-        return "Could not understand audio"
+        return "Could not understand audio" 
      
