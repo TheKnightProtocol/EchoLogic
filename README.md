@@ -4,7 +4,7 @@
 > 🎙️💡 **EchoLogic** is an AI-powered tool that transforms **spoken meetings or recordings** into structured documents and **logic flow diagrams** — enabling teams to **understand, collaborate, and execute** faster than ever.
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=F71313&center=true&vCenter=true&width=900&height=80&lines=⚙️+EchoLogic+⚙️;🧠+By+Guardians+of+Code+🧠;💻+Automate+%7C+Build+%7C+Hack+%7C+Repeat+💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=F71313&center=true&vCenter=true&width=900&height=80&lines=⚙️+EchoLogic+⚙️;🧠+THE+KNIGHT+PROTOCOL+🧠;💻+Automate+%7C+Build+%7C+Hack+%7C+Repeat+💻" />
 </h1>
 
 ---
@@ -63,7 +63,7 @@
 
 ---
 
-## 🤝 Collaborate with Guardiansofcode
+## 🤝 Collaborate
 
 🌌 Whether you're a battle-hardened developer or a rising star just stepping into code — your skills, ideas, and creativity are welcome here.
 
@@ -83,7 +83,7 @@
 
 🚀 *Together, we build. Together, we rise.*
 
-🔗 Contact me on [GitHub](https://github.com/Guardiansofcode) or raise an issue to start collaborating.
+🔗 Contact me on [GitHub](https://github.com/THEKNIGHTPROTOCOL) or raise an issue to start collaborating.
 
 
 ----
