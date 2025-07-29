@@ -11,7 +11,7 @@ if audio_file:
         f.write(audio_file.read())
     transcript = transcribe_audio("temp_audio.wav")
     st.subheader("Transcript")
-    st.write(transcript)
+    st.write(transcript).  
 
     if st.button("Generate Summary"):
         summary = generate_summary(transcript)
