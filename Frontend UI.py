@@ -15,6 +15,6 @@ if audio_file:
 
     if st.button("Generate Summary"):
         summary = generate_summary(transcript)
-        st.subheader("AI Summary")
+        st.subheader("AI Summary") 
         st.write(summary)
               
