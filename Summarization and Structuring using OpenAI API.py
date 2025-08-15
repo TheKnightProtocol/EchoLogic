@@ -2,7 +2,7 @@
 import openai
          
 openai.api_key = "YOUR_OPENAI_API_KEY".  
-  
+    
 def generate_summary(text):
     response = openai.ChatCompletion.create(
         model="gpt-4",
