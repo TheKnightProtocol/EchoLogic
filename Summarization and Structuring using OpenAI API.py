@@ -10,6 +10,6 @@ def generate_summary(text):
             {"role": "system", "content": "Summarize and structure the transcript into topics, decisions, and action items."},
             {"role": "user", "content": text}
         ]
-    )
+    ) 
     return response['choices'][0]['message']['content']
                      
