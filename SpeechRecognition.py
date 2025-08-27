@@ -6,7 +6,7 @@ def transcribe_audio(file_path):
     with sr.AudioFile(file_path) as source:  
         audio =    recognizer.record(source)
     try:
-        text =   recognizer.recognize_google(audio)
+        text =    recognizer.recognize_google(audio)
         return text  
     except sr.UnknownValueError:
         return "Could not understand audio"  
