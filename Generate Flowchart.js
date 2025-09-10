@@ -1,5 +1,5 @@
 # flowchart_generator.py               
-def                 generate_mermaid_flowchart(actions):
+def                  generate_mermaid_flowchart(actions):
     chart = "graph TD\n"   
     for i, step in   enumerate(actions):    
         chart += f"    Step{i}[{step}]\n"
