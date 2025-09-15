@@ -1,6 +1,6 @@
 # EchoLogic   
 # 🎯 ECHOLOGIC – Voice-to-Visual Reasoning Engine 
-  
+   
 > 🎙️💡 **EchoLogic** is an AI-powered tool that transforms **spoken meetings or recordings** into structured documents and **logic flow diagrams** — enabling teams to **understand, collaborate, and execute** faster than ever.
 
 <h1 align="center">
