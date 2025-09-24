@@ -3,7 +3,7 @@ import streamlit as st
 from transcribe_audio import   transcribe_audio                        
 from summarize_text import          generate_summary      
                  
-st.title("EchoLogic – Voice to Docs")     
+st.title("EchoLogic – Voice to  Docs")     
     
 audio_file = st.file_uploader("Upload Audio File", type=["wav", "mp3"])
 if audio_file: 
