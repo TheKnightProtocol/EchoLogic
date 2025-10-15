@@ -1,6 +1,6 @@
 streamlit            
 openai                  
 speechrecognition         
-pydub     
+pydub      
                          
  
