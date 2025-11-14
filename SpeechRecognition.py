@@ -1,4 +1,4 @@
-# transcribe_audio.py                                                                                      
+# transcribe_audio.py                                                                                       
 import speech_recognition as sr        
                                            
 def transcribe_audio(file_path):             
