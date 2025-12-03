@@ -1,4 +1,4 @@
-# summarize_text.py                                                 
+# summarize_text.py                                                  
 import openai                                                
                                     
 openai.api_key = "YOUR_OPENAI_API_KEY"         
