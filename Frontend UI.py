@@ -12,7 +12,7 @@ if audio_file:
     transcript = transcribe_audio("temp_audio.wav")
     st.subheader("Transcript")
     st.write(transcript).  
-
+ 
     if st.button("Generate Summary"):
         summary = generate_summary(transcript)
         st.subheader("AI Summary") 
