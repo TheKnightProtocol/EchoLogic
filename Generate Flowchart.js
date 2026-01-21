@@ -8,7 +8,7 @@ def                                  generate_mermaid_flowchart(actions):
     return chart          
                         
     
-  
+   
  
  
  
