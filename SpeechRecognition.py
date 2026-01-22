@@ -10,8 +10,8 @@ def transcribe_audio(file_path):
         return text  
     except sr.UnknownValueError:
         return "Could not understand audio"  
-                     
-  
+                      
+   
  
  
  
