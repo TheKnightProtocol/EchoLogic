@@ -7,7 +7,7 @@ def                                  generate_mermaid_flowchart(actions):
             chart += f"    Step{i-1} --> Step{i}\n"     
     return chart          
                         
-    
+     
       
     
     
