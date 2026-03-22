@@ -1,4 +1,4 @@
-class Solution {
+class Solution { 
 public:
     vector<vector<int>> minAbsDiff(vector<vector<int>>& grid, int k) {
         int m = grid.size();
