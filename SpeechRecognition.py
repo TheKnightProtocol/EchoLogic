@@ -1,5 +1,5 @@
-# transcribe_audio.py                                                                                                                                                                                                                                              
-import speech_recognition as sr          
+# transcribe_audio.py                                                                                                                                                                                                                                               
+import speech_recognition as sr           
                                             
 def transcribe_audio(file_path):              
     recognizer = sr.Recognizer() 
