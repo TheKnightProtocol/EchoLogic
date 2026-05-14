@@ -4,7 +4,7 @@ def                                  generate_mermaid_flowchart(actions):
     for i, step in        enumerate(actions):      
         chart += f"    Step{i}[{step}]\n"
         if i > 0: 
-            chart += f"    Step{i-1} --> Step{i}\n"     
+            chart += f"    Step{i-1} --> Step{i}\n"      
     return chart          
                         
        
