@@ -905,3 +905,19 @@ FULL TRANSCRIPT
 
 if __name__ == "__main__":
     main()
+
+
+
+try:
+    import numpy as np
+    import pandas as pd
+    import matplotlib
+    matplotlib.use('Agg')  # Use Agg backend (no GUI)
+    import matplotlib.pyplot as plt
+    import matplotlib.patches as mpatches
+    from docx import Document
+    from docx.shared import Inches, Pt, RGBColor
+    from docx.enum.text import WD_ALIGN_PARAGRAPH
+except ImportError as e:
+    st.error(f"Missing dependencies. Run: pip install numpy pandas matplotlib python-docx")
+    st.stop()
