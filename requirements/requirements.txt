@@ -1,10 +1,4 @@
-streamlit                                                                                                                                   
-openai                              
-speechrecognition                
-pydub        
-                                        
-                             
-                          
-        
-   
-   
+streamlit
+pandas
+numpy
+streamlit-option-menu
